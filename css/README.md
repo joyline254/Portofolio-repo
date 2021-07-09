@@ -22,7 +22,9 @@ There are no known bugs
 
 ## TECHNOLOGIES USED
 Built using HTML
+
 Bootstrap
+
 Styled with css
 
 ## CONTACT ME
@@ -31,6 +33,8 @@ CONTACT ME joylinechep001@gmail.com
 
 
 ### LICENSE
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {2021} **{JOYLINE CHEPNGENO}**
+
+ [MIT]  https://github.com/joyline254/Portofolio-repo/tree/main/css/license
+
+Copyright (c) {2021} {JOYLINE CHEPNGENO}
   
