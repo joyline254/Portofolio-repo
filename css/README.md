@@ -30,7 +30,7 @@ For any issues or have questions, ideas or contribution,
 CONTACT ME joylinechep001@gmail.com
 
 
-### LISENCE
+### LICENSE
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {2021} **{JOYLINE CHEPNGENO}**
   
