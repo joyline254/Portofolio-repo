@@ -1,3 +1,7 @@
+body{ background-image: url("../Images/FINAL.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+}
 h1{
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
@@ -6,30 +10,47 @@ h1{
     border: 8px solid black;
     border-left: chocolate;
     padding: 8px;
-    background-color: rgb(29, 34, 66);
     height: 150px;
-    width: 100%;
+    width: 70%;
+    background-color: rgb(29, 35, 66);
     
 }
+
 img{ float: right;
      height: 230px;
      border: double;
-     
+     width: 350px;   
 
 }
 h2{
-    font-size: x-large;
-    color: black;
+    font-size: medium;
+    color: honeydew;
     font-family: 'Times New Roman', Times, serif;
     border: 8px black(201, 243, 87);
     padding: 10px;
-    background-color: rgb(112, 82, 82);
+    width: 120%;
+    background-image: "Image/Eagle.jpg";
 }
-h3{font-size: x-large;
-    color: black;
+
+h3{
+    font-size: medium;
+    color: white;
     border: 8px black;
     padding: 10px;
-    background-color: rgb(112, 82, 82);
+    width: 120%;
 
+
+}
+a{
+    color: rgb(10, 13, 14);
+    border: black;
+    background-color: rgb(184, 164, 52);
+}
+h4{
+    font-size: x-large;
+    color: rgb(17, 15, 6);
+    border: 10px darkcyan;
+    padding: 15px;
+    background-color: rgb(129, 86, 6);
 
 }
